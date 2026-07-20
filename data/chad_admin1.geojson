@@ -1,0 +1,1024 @@
+{
+  "type": "FeatureCollection",
+  "name": "chad_admin1",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahr el-Gazel",
+        "name_fr": "Bahr el-Gazel",
+        "population_2023": 407256,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.5,
+              16.5
+            ],
+            [
+              13.5,
+              17.5
+            ],
+            [
+              14.5,
+              18.0
+            ],
+            [
+              15.5,
+              17.5
+            ],
+            [
+              15.0,
+              16.0
+            ],
+            [
+              14.0,
+              15.5
+            ],
+            [
+              13.5,
+              16.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batha",
+        "name_fr": "Batha",
+        "population_2023": 748395,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5,
+              17.0
+            ],
+            [
+              12.5,
+              19.0
+            ],
+            [
+              14.0,
+              19.5
+            ],
+            [
+              15.0,
+              18.5
+            ],
+            [
+              14.5,
+              17.0
+            ],
+            [
+              13.5,
+              16.5
+            ],
+            [
+              12.5,
+              17.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borkou",
+        "name_fr": "Borkou",
+        "population_2023": 154865,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.0,
+              18.5
+            ],
+            [
+              16.0,
+              20.0
+            ],
+            [
+              17.5,
+              21.0
+            ],
+            [
+              19.0,
+              20.5
+            ],
+            [
+              18.5,
+              19.0
+            ],
+            [
+              17.0,
+              18.0
+            ],
+            [
+              16.0,
+              18.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chari-Baguirmi",
+        "name_fr": "Chari-Baguirmi",
+        "population_2023": 884924,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5,
+              15.0
+            ],
+            [
+              10.5,
+              16.5
+            ],
+            [
+              12.0,
+              17.0
+            ],
+            [
+              13.0,
+              16.0
+            ],
+            [
+              12.5,
+              14.5
+            ],
+            [
+              11.0,
+              14.5
+            ],
+            [
+              10.5,
+              15.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ennedi-Est",
+        "name_fr": "Ennedi-Est",
+        "population_2023": 175321,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.5,
+              21.5
+            ],
+            [
+              15.5,
+              23.0
+            ],
+            [
+              17.0,
+              23.5
+            ],
+            [
+              18.0,
+              22.5
+            ],
+            [
+              17.5,
+              21.0
+            ],
+            [
+              16.5,
+              20.5
+            ],
+            [
+              15.5,
+              21.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ennedi-Ouest",
+        "name_fr": "Ennedi-Ouest",
+        "population_2023": 109753,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.0,
+              20.0
+            ],
+            [
+              16.0,
+              21.5
+            ],
+            [
+              17.5,
+              22.0
+            ],
+            [
+              19.0,
+              21.0
+            ],
+            [
+              18.5,
+              19.5
+            ],
+            [
+              17.0,
+              19.0
+            ],
+            [
+              16.0,
+              20.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guéra",
+        "name_fr": "Guéra",
+        "population_2023": 824161,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5,
+              17.5
+            ],
+            [
+              10.5,
+              19.0
+            ],
+            [
+              12.0,
+              19.5
+            ],
+            [
+              13.0,
+              18.5
+            ],
+            [
+              12.5,
+              17.0
+            ],
+            [
+              11.5,
+              16.5
+            ],
+            [
+              10.5,
+              17.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hadjer-Lamis",
+        "name_fr": "Hadjer-Lamis",
+        "population_2023": 870231,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5,
+              15.5
+            ],
+            [
+              11.5,
+              17.0
+            ],
+            [
+              13.0,
+              17.5
+            ],
+            [
+              14.0,
+              16.5
+            ],
+            [
+              13.5,
+              15.0
+            ],
+            [
+              12.5,
+              14.5
+            ],
+            [
+              11.5,
+              15.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanem",
+        "name_fr": "Kanem",
+        "population_2023": 505839,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0,
+              13.5
+            ],
+            [
+              13.0,
+              15.0
+            ],
+            [
+              14.5,
+              15.5
+            ],
+            [
+              15.5,
+              14.5
+            ],
+            [
+              15.0,
+              13.0
+            ],
+            [
+              14.0,
+              12.5
+            ],
+            [
+              13.0,
+              13.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac",
+        "name_fr": "Lac",
+        "population_2023": 509258,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.5,
+              13.0
+            ],
+            [
+              13.5,
+              14.5
+            ],
+            [
+              15.0,
+              15.0
+            ],
+            [
+              16.0,
+              14.0
+            ],
+            [
+              15.5,
+              12.5
+            ],
+            [
+              14.5,
+              12.0
+            ],
+            [
+              13.5,
+              13.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logone Occidental",
+        "name_fr": "Logone Occidental",
+        "population_2023": 1053958,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.0,
+              15.5
+            ],
+            [
+              8.0,
+              17.0
+            ],
+            [
+              9.5,
+              17.5
+            ],
+            [
+              10.5,
+              16.5
+            ],
+            [
+              10.0,
+              15.0
+            ],
+            [
+              9.0,
+              14.5
+            ],
+            [
+              8.0,
+              15.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logone Oriental",
+        "name_fr": "Logone Oriental",
+        "population_2023": 1184567,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5,
+              16.0
+            ],
+            [
+              7.5,
+              17.5
+            ],
+            [
+              9.0,
+              18.0
+            ],
+            [
+              10.0,
+              17.0
+            ],
+            [
+              9.5,
+              15.5
+            ],
+            [
+              8.5,
+              15.0
+            ],
+            [
+              7.5,
+              16.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandoul",
+        "name_fr": "Mandoul",
+        "population_2023": 1002346,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.0,
+              17.0
+            ],
+            [
+              8.0,
+              18.5
+            ],
+            [
+              9.5,
+              19.0
+            ],
+            [
+              10.5,
+              18.0
+            ],
+            [
+              10.0,
+              16.5
+            ],
+            [
+              9.0,
+              16.0
+            ],
+            [
+              8.0,
+              17.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayo-Kebbi Est",
+        "name_fr": "Mayo-Kebbi Est",
+        "population_2023": 1179260,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.5,
+              14.5
+            ],
+            [
+              9.5,
+              16.0
+            ],
+            [
+              11.0,
+              16.5
+            ],
+            [
+              12.0,
+              15.5
+            ],
+            [
+              11.5,
+              14.0
+            ],
+            [
+              10.5,
+              13.5
+            ],
+            [
+              9.5,
+              14.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayo-Kebbi Ouest",
+        "name_fr": "Mayo-Kebbi Ouest",
+        "population_2023": 858593,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5,
+              13.5
+            ],
+            [
+              8.5,
+              15.0
+            ],
+            [
+              10.0,
+              15.5
+            ],
+            [
+              11.0,
+              14.5
+            ],
+            [
+              10.5,
+              13.0
+            ],
+            [
+              9.5,
+              12.5
+            ],
+            [
+              8.5,
+              13.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moyen-Chari",
+        "name_fr": "Moyen-Chari",
+        "population_2023": 902311,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5,
+              18.0
+            ],
+            [
+              8.5,
+              19.5
+            ],
+            [
+              10.0,
+              20.0
+            ],
+            [
+              11.0,
+              19.0
+            ],
+            [
+              10.5,
+              17.5
+            ],
+            [
+              9.5,
+              17.0
+            ],
+            [
+              8.5,
+              18.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouaddaï",
+        "name_fr": "Ouaddaï",
+        "population_2023": 1102467,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.0,
+              19.5
+            ],
+            [
+              12.0,
+              21.0
+            ],
+            [
+              13.5,
+              21.5
+            ],
+            [
+              14.5,
+              20.5
+            ],
+            [
+              14.0,
+              19.0
+            ],
+            [
+              13.0,
+              18.5
+            ],
+            [
+              12.0,
+              19.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salamat",
+        "name_fr": "Salamat",
+        "population_2023": 470256,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.0,
+              19.5
+            ],
+            [
+              10.0,
+              21.0
+            ],
+            [
+              11.5,
+              21.5
+            ],
+            [
+              12.5,
+              20.5
+            ],
+            [
+              12.0,
+              19.0
+            ],
+            [
+              11.0,
+              18.5
+            ],
+            [
+              10.0,
+              19.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sila",
+        "name_fr": "Sila",
+        "population_2023": 591300,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5,
+              20.5
+            ],
+            [
+              11.5,
+              22.0
+            ],
+            [
+              13.0,
+              22.5
+            ],
+            [
+              14.0,
+              21.5
+            ],
+            [
+              13.5,
+              20.0
+            ],
+            [
+              12.5,
+              19.5
+            ],
+            [
+              11.5,
+              20.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tandjilé",
+        "name_fr": "Tandjilé",
+        "population_2023": 1007812,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5,
+              16.0
+            ],
+            [
+              8.5,
+              17.5
+            ],
+            [
+              10.0,
+              18.0
+            ],
+            [
+              11.0,
+              17.0
+            ],
+            [
+              10.5,
+              15.5
+            ],
+            [
+              9.5,
+              15.0
+            ],
+            [
+              8.5,
+              16.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tibesti",
+        "name_fr": "Tibesti",
+        "population_2023": 52626,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.0,
+              18.5
+            ],
+            [
+              19.0,
+              20.0
+            ],
+            [
+              20.5,
+              20.5
+            ],
+            [
+              21.5,
+              19.5
+            ],
+            [
+              21.0,
+              18.0
+            ],
+            [
+              20.0,
+              17.5
+            ],
+            [
+              19.0,
+              18.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadi Fira",
+        "name_fr": "Wadi Fira",
+        "population_2023": 792394,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.5,
+              20.0
+            ],
+            [
+              13.5,
+              21.5
+            ],
+            [
+              15.0,
+              22.0
+            ],
+            [
+              16.0,
+              21.0
+            ],
+            [
+              15.5,
+              19.5
+            ],
+            [
+              14.5,
+              19.0
+            ],
+            [
+              13.5,
+              20.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N'Djamena",
+        "name_fr": "N'Djamena",
+        "population_2023": 1434592,
+        "admin_level": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.0,
+              15.0
+            ],
+            [
+              12.0,
+              15.5
+            ],
+            [
+              12.3,
+              15.7
+            ],
+            [
+              12.5,
+              15.5
+            ],
+            [
+              12.5,
+              15.0
+            ],
+            [
+              12.3,
+              14.8
+            ],
+            [
+              12.0,
+              15.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

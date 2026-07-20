@@ -1,0 +1,61 @@
+/* Styles personnalisés — Dashboard MEAL/IM INTERSOS Tchad */
+
+div[data-testid="stMetric"] {
+    background-color: #FFFFFF;
+    border: 1px solid #EAE6E1;
+    border-left: 4px solid #E4610F;
+    border-radius: 8px;
+    padding: 14px 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+div[data-testid="stMetricLabel"] {
+    color: #6B7280;
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+}
+
+div[data-testid="stMetricValue"] {
+    color: #1B2A4A;
+    font-weight: 700;
+}
+
+section[data-testid="stSidebar"] {
+    border-right: 1px solid #EAE6E1;
+}
+
+.intersos-banner {
+    background: linear-gradient(120deg, #1B2A4A 0%, #2C3E63 100%);
+    color: white;
+    padding: 28px 32px;
+    border-radius: 10px;
+    margin-bottom: 18px;
+}
+
+.intersos-banner h1 {
+    color: white;
+    margin: 0 0 6px 0;
+    font-size: 1.7rem;
+}
+
+.intersos-banner p {
+    color: #E8E4DE;
+    margin: 0;
+    font-size: 0.95rem;
+}
+
+.sector-chip {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: white;
+    margin-right: 6px;
+}
+
+hr {
+    border-top: 1px solid #EAE6E1;
+}
